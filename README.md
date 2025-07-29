@@ -178,6 +178,7 @@ default  =  "alon-docs"
 }
 ```
 
+
 ```hcl
   
 data  "azurerm_resource_group"  "existing" {
