@@ -3,9 +3,6 @@ data "azurerm_resource_group" "existing" {
   name = var.resource_group_name
 }
 
-
-data "azurerm_subscription" "current" {}
-
 locals {
   location_map = jsondecode(file("${path.root}/location.json"))
   abbreviation_map = jsondecode(file("${path.root}/abbreviations.json"))
