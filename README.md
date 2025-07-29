@@ -7,7 +7,7 @@ We'll design our architecture using the [C4 Model](https://c4model.com/) — spe
 
 ### 📊 C4 Diagram (System + Container Level)
 
-![Design Architecture](https://github.com/dewise-team/alon-docs-site/blob/main/images/design-infrastructure-alon-docs.png)
+![Design Architecture](https://github.com/bryantugade/alon-docs-poc/blob/main/images/design-infrastructure-alon-docs.png)
 
 ### Technologies Used
 
