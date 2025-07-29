@@ -1,0 +1,456 @@
+{
+  "eastus": {
+    "alias": "",
+    "displayName": "East US",
+    "appinsights_endpoint": "https://eastus-1.in.applicationinsights.azure.com/"
+  },
+  "southcentralus": {
+    "alias": "",
+    "displayName": "South Central US",
+    "appinsights_endpoint": "https://southcentralus-1.in.applicationinsights.azure.com/"
+  },
+  "westus2": {
+    "alias": "",
+    "displayName": "West US 2",
+    "appinsights_endpoint": "https://westus2-1.in.applicationinsights.azure.com/" 
+  },
+  "westus3": {
+    "alias": "",
+    "displayName": "West US 3",
+    "appinsights_endpoint": "https://westus3-1.in.applicationinsights.azure.com/"
+  },
+  "australiaeast": {
+    "alias": "",
+    "displayName": "Australia East",
+    "appinsights_endpoint": "https://australiaeast-1.in.applicationinsights.azure.com/" 
+  },
+  "southeastasia": {
+    "alias": "sea",
+    "displayName": "Southeast Asia",
+    "appinsights_endpoint": "https://southeastasia-1.in.applicationinsights.azure.com/"
+  },
+  "northeurope": {
+    "alias": "neu",
+    "displayName": "North Europe",
+    "appinsights_endpoint": "https://northeurope-1.in.applicationinsights.azure.com/"
+  },
+  "swedencentral": {
+    "alias": "swdc",
+    "displayName": "Sweden Central",
+    "appinsights_endpoint": "https://swedencentral-1.in.applicationinsights.azure.com/"
+  },
+  "uksouth": {
+    "alias": "uks",
+    "displayName": "UK South",
+    "appinsights_endpoint": "https://uksouth-1.in.applicationinsights.azure.com/"
+  },
+  "westeurope": {
+    "alias": "weu",
+    "displayName": "West Europe",
+    "appinsights_endpoint": "https://westeurope-1.in.applicationinsights.azure.com/"
+  },
+  "centralus": {
+    "alias": "",
+    "displayName": "Central US",
+    "appinsights_endpoint": "https://centralus-1.in.applicationinsights.azure.com/"
+  },
+  "southafricanorth": {
+    "alias": "",
+    "displayName": "South Africa North"
+  },
+  "centralindia": {
+    "alias": "",
+    "displayName": "Central India",
+    "appinsights_endpoint": "https://centralindia-1.in.applicationinsights.azure.com/"
+  },
+  "eastasia": {
+    "alias": "eas",
+    "displayName": "East Asia",
+    "appinsights_endpoint": "https://eastasia-1.in.applicationinsights.azure.com/"
+  },
+  "japaneast": {
+    "alias": "",
+    "displayName": "Japan East",
+    "appinsights_endpoint": "https://japaneast-1.in.applicationinsights.azure.com/"
+  },
+  "koreacentral": {
+    "alias": "",
+    "displayName": "Korea Central",
+    "appinsights_endpoint": "https://koreacentral-1.in.applicationinsights.azure.com/"
+  },
+  "canadacentral": {
+    "alias": "",
+    "displayName": "Canada Central",
+    "appinsights_endpoint": "https://canadacentral-1.in.applicationinsights.azure.com/"
+  },
+  "francecentral": {
+    "alias": "",
+    "displayName": "France Central",
+    "appinsights_endpoint": "https://francecentral-1.in.applicationinsights.azure.com/"
+  },
+  "germanywestcentral": {
+    "alias": "",
+    "displayName": "Germany West Central",
+    "appinsights_endpoint": "https://germanywestcentral-1.in.applicationinsights.azure.com/"
+  },
+  "italynorth": {
+    "alias": "",
+    "displayName": "Italy North",
+    "appinsights_endpoint": "https://italynorth-1.in.applicationinsights.azure.com/"
+  },
+  "norwayeast": {
+    "alias": "",
+    "displayName": "Norway East",
+    "appinsights_endpoint": "https://norwayeast-1.in.applicationinsights.azure.com/"
+  },
+  "polandcentral": {
+    "alias": "",
+    "displayName": "Poland Central",
+    "appinsights_endpoint": "https://polandcentral-1.in.applicationinsights.azure.com/"
+  },
+  "spaincentral": {
+    "alias": "",
+    "displayName": "Spain Central",
+    "appinsights_endpoint": "https://spaincentral-1.in.applicationinsights.azure.com/"
+  },
+  "switzerlandnorth": {
+    "alias": "",
+    "displayName": "Switzerland North",
+    "appinsights_endpoint": "https://switzerlandnorth-1.in.applicationinsights.azure.com/"
+  },
+  "mexicocentral": {
+    "alias": "",
+    "displayName": "Mexico Central",
+    "appinsights_endpoint": "https://mexicocentral-1.in.applicationinsights.azure.com/"
+  },
+  "uaenorth": {
+    "alias": "",
+    "displayName": "UAE North",
+    "appinsights_endpoint": "https://uaenorth-1.in.applicationinsights.azure.com/"
+  },
+  "brazilsouth": {
+    "alias": "",
+    "displayName": "Brazil South",
+    "appinsights_endpoint": "https://brazilsouth-1.in.applicationinsights.azure.com/"
+  },
+  "israelcentral": {
+    "alias": "",
+    "displayName": "Israel Central",
+    "appinsights_endpoint": "https://israelcentral-1.in.applicationinsights.azure.com/"
+  },
+  "qatarcentral": {
+    "alias": "",
+    "displayName": "Qatar Central",
+    "appinsights_endpoint": "https://qatarcentral-1.in.applicationinsights.azure.com/"
+  },
+  "centralusstage": {
+    "alias": "",
+    "displayName": "Central US (Stage)",
+    "appinsights_endpoint": "https://centralusstage-1.in.applicationinsights.azure.com/"
+  },
+  "eastusstage": {
+    "alias": "",
+    "displayName": "East US (Stage)",
+    "appinsights_endpoint": "https://eastusstage-1.in.applicationinsights.azure.com/"
+  },
+  "eastus2stage": {
+    "alias": "",
+    "displayName": "East US 2 (Stage)",
+    "appinsights_endpoint": "https://eastus2stage-1.in.applicationinsights.azure.com/"
+  },
+  "northcentralusstage": {
+    "alias": "",
+    "displayName": "North Central US (Stage)",
+    "appinsights_endpoint": "https://northcentralusstage-1.in.applicationinsights.azure.com/"
+  },
+  "southcentralusstage": {
+    "alias": "",
+    "displayName": "South Central US (Stage)",
+    "appinsights_endpoint": "https://southcentralusstage-1.in.applicationinsights.azure.com/"
+  },
+  "westusstage": {
+    "alias": "",
+    "displayName": "West US (Stage)",
+    "appinsights_endpoint": "https://westusstage-1.in.applicationinsights.azure.com/"
+  },
+  "westus2stage": {
+    "alias": "",
+    "displayName": "West US 2 (Stage)",
+    "appinsights_endpoint": "https://westus2stage-1.in.applicationinsights.azure.com/"
+  },
+  "asia": {
+    "alias": "asia",
+    "displayName": "Asia",
+    "appinsights_endpoint": "https://asia-1.in.applicationinsights.azure.com/"
+  },
+  "asiapacific": {
+    "alias": "apf",
+    "displayName": "Asia Pacific",
+    "appinsights_endpoint": "https://asiapacific-1.in.applicationinsights.azure.com/"
+  },
+  "australia": {
+    "alias": "",
+    "displayName": "Australia",
+    "appinsights_endpoint": "https://australia-1.in.applicationinsights.azure.com/"
+  },
+  "brazil": {
+    "alias": "",
+    "displayName": "Brazil",
+    "appinsights_endpoint": "https://brazil-1.in.applicationinsights.azure.com/"
+  },
+  "canada": {
+    "alias": "",
+    "displayName": "Canada",
+    "appinsights_endpoint": "https://canada-1.in.applicationinsights.azure.com/"
+  },
+  "europe": {
+    "alias": "eau",
+    "displayName": "Europe",
+    "appinsights_endpoint": "https://europe-1.in.applicationinsights.azure.com/"
+  },
+  "france": {
+    "alias": "",
+    "displayName": "France",
+    "appinsights_endpoint": "https://france-1.in.applicationinsights.azure.com/"
+  },
+  "germany": {
+    "alias": "",
+    "displayName": "Germany",
+    "appinsights_endpoint": "https://germany-1.in.applicationinsights.azure.com/"
+  },
+  "global": {
+    "alias": "",
+    "displayName": "Global",
+    "appinsights_endpoint": "https://global-1.in.applicationinsights.azure.com/"
+  },
+  "india": {
+    "alias": "",
+    "displayName": "India",
+    "appinsights_endpoint": "https://india-1.in.applicationinsights.azure.com/"
+  },
+  "israel": {
+    "alias": "",
+    "displayName": "Israel",
+    "appinsights_endpoint": "https://israel-1.in.applicationinsights.azure.com/"
+  },
+  "italy": {
+    "alias": "",
+    "displayName": "Italy",
+    "appinsights_endpoint": "https://italy-1.in.applicationinsights.azure.com/"
+  },
+  "japan": {
+    "alias": "",
+    "displayName": "Japan",
+    "appinsights_endpoint": "https://japan-1.in.applicationinsights.azure.com/"
+  },
+  "korea": {
+    "alias": "",
+    "displayName": "Korea",
+    "appinsights_endpoint": "https://korea-1.in.applicationinsights.azure.com/"
+  },
+  "newzealand": {
+    "alias": "",
+    "displayName": "New Zealand",
+    "appinsights_endpoint": "https://newzealand-1.in.applicationinsights.azure.com/"
+  },
+  "norway": {
+    "alias": "",
+    "displayName": "Norway",
+    "appinsights_endpoint": "https://norway-1.in.applicationinsights.azure.com/"
+  },
+  "poland": {
+    "alias": "",
+    "displayName": "Poland",
+    "appinsights_endpoint": "https://poland-1.in.applicationinsights.azure.com/"
+  },
+  "qatar": {
+    "alias": "",
+    "displayName": "Qatar",
+    "appinsights_endpoint": "https://qatar-1.in.applicationinsights.azure.com/"
+  },
+  "singapore": {
+    "alias": "",
+    "displayName": "Singapore",
+    "appinsights_endpoint": "https://singapore-1.in.applicationinsights.azure.com/"
+  },
+  "southafrica": {
+    "alias": "",
+    "displayName": "South Africa",
+    "appinsights_endpoint": "https://southafrica-1.in.applicationinsights.azure.com/"
+  },
+  "sweden": {
+    "alias": "",
+    "displayName": "Sweden",
+    "appinsights_endpoint": "https://sweden-1.in.applicationinsights.azure.com/"
+  },
+  "switzerland": {
+    "alias": "",
+    "displayName": "Switzerland",
+    "appinsights_endpoint": "https://switzerland-1.in.applicationinsights.azure.com/"
+  },
+  "uae": {
+    "alias": "",
+    "displayName": "United Arab Emirates",
+    "appinsights_endpoint": "https://uae-1.in.applicationinsights.azure.com/"
+  },
+  "uk": {
+    "alias": "",
+    "displayName": "United Kingdom",
+    "appinsights_endpoint": "https://uk-1.in.applicationinsights.azure.com/"
+  },
+  "unitedstates": {
+    "alias": "",
+    "displayName": "United States",
+    "appinsights_endpoint": "https://unitedstates-1.in.applicationinsights.azure.com/"
+  },
+  "unitedstateseuap": {
+    "alias": "",
+    "displayName": "United States EUAP",
+    "appinsights_endpoint": "https://unitedstateseuap-1.in.applicationinsights.azure.com/"
+  },
+  "eastasiastage": {
+    "alias": "eastg",
+    "displayName": "East Asia (Stage)",
+    "appinsights_endpoint": "https://eastasiastage-1.in.applicationinsights.azure.com/"
+  },
+  "southeastasiastage": {
+    "alias": "seatg",
+    "displayName": "Southeast Asia (Stage)",
+    "appinsights_endpoint": "https://southeastasiastage-1.in.applicationinsights.azure.com/"
+  },
+  "brazilus": {
+    "alias": "",
+    "displayName": "Brazil US",
+    "appinsights_endpoint": "https://brazilus-1.in.applicationinsights.azure.com/"
+  },
+  "eastus2": {
+    "alias": "",
+    "displayName": "East US 2",
+    "appinsights_endpoint": "https://eastus2-1.in.applicationinsights.azure.com/"
+  },
+  "eastusstg": {
+    "alias": "",
+    "displayName": "East US STG",
+    "appinsights_endpoint": "https://eastusstg-1.in.applicationinsights.azure.com/"
+  },
+  "northcentralus": {
+    "alias": "",
+    "displayName": "North Central US",
+    "appinsights_endpoint": "https://northcentralus-1.in.applicationinsights.azure.com/"
+  },
+  "westus": {
+    "alias": "",
+    "displayName": "West US",
+    "appinsights_endpoint": "https://westus-1.in.applicationinsights.azure.com/"
+  },
+  "japanwest": {
+    "alias": "",
+    "displayName": "Japan West",
+    "appinsights_endpoint": "https://japanwest-1.in.applicationinsights.azure.com/"
+  },
+  "jioindiawest": {
+    "alias": "",
+    "displayName": "Jio India West",
+    "appinsights_endpoint": "https://jioindiawest-1.in.applicationinsights.azure.com/"
+  },
+  "centraluseuap": {
+    "alias": "",
+    "displayName": "Central US EUAP",
+    "appinsights_endpoint": "https://centraluseuap-1.in.applicationinsights.azure.com/"
+  },
+  "eastus2euap": {
+    "alias": "",
+    "displayName": "East US 2 EUAP",
+    "appinsights_endpoint": "https://eastus2euap-1.in.applicationinsights.azure.com/"
+  },
+  "southcentralusstg": {
+    "alias": "",
+    "displayName": "South Central US STG",
+    "appinsights_endpoint": "https://southcentralusstg-1.in.applicationinsights.azure.com/"
+  },
+  "westcentralus": {
+    "alias": "",
+    "displayName": "West Central US",
+    "appinsights_endpoint": "https://westcentralus-1.in.applicationinsights.azure.com/"
+  },
+  "southafricawest": {
+    "alias": "",
+    "displayName": "South Africa West",
+    "appinsights_endpoint": "https://southafricawest-1.in.applicationinsights.azure.com/"
+  },
+  "australiacentral": {
+    "alias": "",
+    "displayName": "Australia Central",
+    "appinsights_endpoint": "https://australiacentral-1.in.applicationinsights.azure.com/"
+  },
+  "australiacentral2": {
+    "alias": "",
+    "displayName": "Australia Central 2",
+    "appinsights_endpoint": "https://australiacentral2-1.in.applicationinsights.azure.com/"
+  },
+  "australiasoutheast": {
+    "alias": "",
+    "displayName": "Australia Southeast",
+    "appinsights_endpoint": "https://australiasoutheast-1.in.applicationinsights.azure.com/"
+  },
+  "jioindiacentral": {
+    "alias": "",
+    "displayName": "Jio India Central",
+    "appinsights_endpoint": "https://jioindiacentral-1.in.applicationinsights.azure.com/"
+  },
+  "koreasouth": {
+    "alias": "",
+    "displayName": "Korea South",
+    "appinsights_endpoint": "https://koreasouth-1.in.applicationinsights.azure.com/"
+  },
+  "southindia": {
+    "alias": "",
+    "displayName": "South India",
+    "appinsights_endpoint": "https://southindia-1.in.applicationinsights.azure.com/"
+  },
+  "westindia": {
+    "alias": "",
+    "displayName": "West India",
+    "appinsights_endpoint": "https://westindia-1.in.applicationinsights.azure.com/"
+  },
+  "canadaeast": {
+    "alias": "",
+    "displayName": "Canada East",
+    "appinsights_endpoint": "https://canadaeast-1.in.applicationinsights.azure.com/"
+  },
+  "francesouth": {
+    "alias": "",
+    "displayName": "France South",
+    "appinsights_endpoint": "https://francesouth-1.in.applicationinsights.azure.com/"
+  },
+  "germanynorth": {
+    "alias": "",
+    "displayName": "Germany North",
+    "appinsights_endpoint": "https://germanynorth-1.in.applicationinsights.azure.com/"
+  },
+  "norwaywest": {
+    "alias": "",
+    "displayName": "Norway West",
+    "appinsights_endpoint": "https://norwaywest-1.in.applicationinsights.azure.com/"
+  },
+  "switzerlandwest": {
+    "alias": "",
+    "displayName": "Switzerland West",
+    "appinsights_endpoint": "https://switzerlandwest-1.in.applicationinsights.azure.com/"
+  },
+  "ukwest": {
+    "alias": "",
+    "displayName": "UK West",
+    "appinsights_endpoint": "https://ukwest-1.in.applicationinsights.azure.com/"
+  },
+  "uaecentral": {
+    "alias": "",
+    "displayName": "UAE Central",
+    "appinsights_endpoint": "https://uaecentral-1.in.applicationinsights.azure.com/"
+  },
+  "brazilsoutheast": {
+    "alias": "",
+    "displayName": "Brazil Southeast",
+    "appinsights_endpoint": "https://brazilsoutheast-1.in.applicationinsights.azure.com/"
+  }
+}
