@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/bryantugade/alon-docs-poc/compare/v1.0.0...v1.0.1) (2025-07-31)
+
+
+### Bug Fixes
+
+* remove zippin gof file for now ([9f8e12f](https://github.com/bryantugade/alon-docs-poc/commit/9f8e12f726a7c5aa391d8af978236d45ee053159))
+
 # 1.0.0 (2025-07-31)
 
 
