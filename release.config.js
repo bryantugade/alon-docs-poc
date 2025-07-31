@@ -18,14 +18,14 @@ module.exports = {
         message: 'chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}'
       }
     ],
-    [
-      '@semantic-release/github',
-      {
-        assets: [
-          { path: 'site.zip', label: 'Built Hugo Site' }
-        ]
-      }
-    ]
+    // [
+    //   '@semantic-release/github',
+    //   {
+    //     assets: [
+    //       { path: 'site.zip', label: 'Built Hugo Site' }
+    //     ]
+    //   }
+    // ]
   ],
   tagFormat: 'v${version}'
 };
