@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/bryantugade/alon-docs-poc/compare/v1.0.1...v1.1.0) (2025-07-31)
+
+
+### Features
+
+* removing of zip command ([bf714a9](https://github.com/bryantugade/alon-docs-poc/commit/bf714a946ed9ec5a0e32049049b00a060b46dad4))
+
 ## [1.0.1](https://github.com/bryantugade/alon-docs-poc/compare/v1.0.0...v1.0.1) (2025-07-31)
 
 
