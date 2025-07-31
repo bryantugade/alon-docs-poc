@@ -8,7 +8,7 @@ module.exports = {
       '@semantic-release/exec',
       {
         prepareCmd: 'node scripts/update-version.js ${nextRelease.version}',
-        publishCmd: 'node scripts/create-site-zip.js'
+        // publishCmd: 'node scripts/create-site-zip.js'
       }
     ],
     [
