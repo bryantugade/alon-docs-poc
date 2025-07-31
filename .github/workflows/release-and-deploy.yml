@@ -22,7 +22,6 @@ jobs:
 
       - name: Install Dependencies
         run: npm install -g semantic-release @semantic-release/changelog @semantic-release/git @semantic-release/github @semantic-release/exec archiver
-
       # - name: Build Hugo Site
       #   run: |
       #     sudo apt-get install -y hugo
